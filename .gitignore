@@ -1,0 +1,16 @@
+*.pyc
+*.sqlite3
+*.swp
+*.swo
+tags
+/MANIFEST
+/build
+/dist
+/dateutil
+/django
+/djangoappengine
+/djangotoolbox
+/pyactiveresource
+/shopify
+*.sqlite3
+py27env
